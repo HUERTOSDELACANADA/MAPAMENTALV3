@@ -1,0 +1,8 @@
+{
+  "name": "Mapas Mentales V2",
+  "description": "Herramienta avanzada de mapas mentales impulsada por IA para equipos de MORETURISMO, permitiendo convertir ideas complejas en planes ejecutables.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
